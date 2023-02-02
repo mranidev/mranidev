@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Hi, my name is Amine and I am a Full Stack Web Developer with 3 years of freelance experience. I specialize in building dynamic and responsive web applications using modern technologies such as HTML, CSS, JavaScript, and various frameworks and libraries.
+
+I have a passion for delivering high-quality, user-friendly and robust solutions that meet my clients' needs. My skills include creating and integrating back-end systems, working with databases, and ensuring the optimal performance of my applications.
+
+Throughout my career, I have developed a strong understanding of Agile methodologies and have worked on projects with tight deadlines, delivering results within the given time frame while maintaining high-quality standards.
+
+As a remote worker, I am comfortable with working independently, as well as in a team environment, using tools such as Slack, Trello, and GitHub. I am also a quick learner, constantly seeking new challenges to improve my skills and knowledge.
+
+If you are looking for a reliable and skilled Full Stack Web Developer, I would love to hear from you. Let's work together to bring your projects to life.
 <!--
 **mranidev/mranidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
