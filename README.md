@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **Amine** and I am a Full Stack Web Developer with 3 years of freelance experience. I specialize in building dynamic and responsive web applications using modern technologies such as HTML, CSS, JavaScript, and various frameworks and libraries.
+My name is **Amine** and I am a **Full Stack Web Developer** with 3 years of freelance experience. I specialize in building dynamic and responsive web applications using modern technologies such as HTML, CSS, JavaScript, and various frameworks and libraries.
 
 I have a passion for delivering high-quality, user-friendly and robust solutions that meet my clients' needs. My skills include creating and integrating back-end systems, working with databases, and ensuring the optimal performance of my applications.
 
