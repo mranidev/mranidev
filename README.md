@@ -1,6 +1,6 @@
 
 <div id="header">
-  <h3 align="center">A passionate Full Stack Web Developer from Morocco</h3>
+  <h3>A passionate Full Stack Web Developer from Morocco</h3>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
