@@ -1,7 +1,8 @@
 
 <div id="header">
-  <h3>A passionate Full Stack Web Developer from Morocco</h3>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <h3>A passionate Full Stack Web Developer from Morocco</h3>
+
 </div>
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/mranidev?theme=dark&font=baloo&extension=activity)
