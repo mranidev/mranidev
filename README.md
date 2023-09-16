@@ -34,7 +34,7 @@ In this mystical GitHub repository, you'll uncover a treasure trove of projects 
 
 ## 💌 Let's Connect
 
-I'm always open to new enchanting opportunities and collaborations. Whether you're seeking a wizard for your project, have questions about my magical creations, or simply want to connect over a virtual potion, feel free to reach out via [email](mailto:amine@mrani.dev) or on [Portfolio](https://mrani.dev). 💌
+I'm always open to new enchanting opportunities and collaborations. Whether you're seeking a wizard for your project, have questions about my magical creations, or simply want to connect over a virtual potion, feel free to reach out via [Email](mailto:amine@mrani.dev) or on [Portfolio](https://mrani.dev). 💌
 
 Thank you for visiting my mystical portfolio, and may your web development journey be filled with magic and wonder! 🌟🪄✨
 
