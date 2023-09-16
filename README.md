@@ -41,10 +41,10 @@ Thank you for visiting my mystical portfolio, and may your web development journ
 ![LeetCode Stats](https://leetcard.jacoblin.cool/mranidev?theme=dark&font=Corben&ext=heatmap)
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-plain.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-plain.svg" height="40" width="52" alt="pytorch logo"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-plain.svg" height="40" width="52" alt="tensorflow logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/laravel/laravel-plain.svg" height="40" width="52" alt="pandas logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="numpy logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" width="52" alt="jupyter logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-plain.svg" height="40" width="52" alt="php logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-plain.svg" height="40" width="52" alt="mysql logo"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-plain.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/laravel/laravel-plain.svg" height="40" width="52" alt="laravel logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-plain.svg" height="40" width="52" alt="bootstrap logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/wordpress/wordpress-plain.svg" height="40" width="52" alt="wordpress logo"  />
 </div>
