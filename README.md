@@ -41,8 +41,8 @@ Thank you for visiting my mystical portfolio, and may your web development journ
 ![LeetCode Stats](https://leetcard.jacoblin.cool/mranidev?theme=dark&font=Corben&ext=heatmap)
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="pytorch logo"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-plain.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-plain.svg" height="40" width="52" alt="pytorch logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="tensorflow logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" width="52" alt="pandas logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="numpy logo"  />
