@@ -48,5 +48,5 @@ Thank you for visiting my mystical portfolio, and may your web development journ
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-plain.svg" height="40" width="52" alt="bootstrap logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/wordpress/wordpress-plain.svg" height="40" width="52" alt="wordpress logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/angularjs/angularjs-plain.svg" height="40" width="52" alt="angular logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/composer/composer-plain.svg" height="40" width="52" alt="composer logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/composer/composer-original.svg" height="40" width="52" alt="composer logo"  />
 </div>
