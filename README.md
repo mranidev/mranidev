@@ -6,7 +6,7 @@ Hey there! I'm Amine EL ALAOUI MRANI, a passionate 🚀 PHP web developer with a
 
 ## 💌 Let's Connect
 
-I'm always open to new enchanting opportunities and collaborations. Whether you're seeking a wizard for your project, have questions about my magical creations, or simply want to connect over a virtual potion, feel free to reach out via [Email](mailto:amine@mrani.dev) or on [Portfolio](https://mrani.dev). 💌
+I'm always open to new enchanting opportunities and collaborations. Whether you're seeking a wizard for your project, have questions about my magical creations, or simply want to connect over a virtual potion, feel free to reach out via [Email](mailto:mranidev@proton.me) or on [Portfolio](https://mrani.dev). 💌
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/mranidev?theme=dark&font=Corben&ext=heatmap)
 
