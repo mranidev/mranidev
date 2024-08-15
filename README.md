@@ -9,7 +9,6 @@ Hey there! I'm Amine EL ALAOUI MRANI, a passionate 🚀 PHP web developer with a
 I'm always open to new enchanting opportunities and collaborations. Whether you're seeking a wizard for your project, have questions about my magical creations, or simply want to connect over a virtual potion, feel free to reach out via [Email](mailto:mranidev@proton.me) or on [Portfolio](https://mrani.dev). 💌
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/mranidev?theme=dark&font=Corben&ext=heatmap)
-<iframe src="https://hackerrank-badge.herokuapp.com/mranidev" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></iframe>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-plain.svg" height="40" width="52" alt="php logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-plain.svg" height="40" width="52" alt="mysql logo"/>
