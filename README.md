@@ -1,7 +1,5 @@
 ## ⚡ Tech Stack
 
-### Languages
-
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45" alt="PHP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
@@ -11,8 +9,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45" alt="Bash"/>
 </p>
 
-### Frameworks & Platforms
-
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="45" height="45" alt="Laravel"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
@@ -21,15 +17,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js"/>
 </p>
 
-### Databases
-
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" height="45" alt="Redis"/>
 </p>
-
-## 🛠️ Development Tools
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
@@ -38,15 +30,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
 </p>
 
-**Editors & AI Development**
-
 * ⚡ **Zed Editor** — fast, modern code editor
 * 🤖 **FreeBuffer IDE Agent** — AI-assisted development workflow
 * 🧠 **Claude / AI coding agents** — code generation, debugging, research, and automation
 * 🐧 **Neovim** — terminal-based development
 * 🖥️ **Termux** — development and Linux tooling on Android
-
-## ☁️ DevOps & Infrastructure
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
@@ -64,27 +52,6 @@
 * 🚀 **Vercel / Railway / Fly.io / Wasmer**
 * 🔐 **SSH, Git, DNS & server administration**
 
-## 🚀 What I'm Building
-
-I'm especially interested in building tools around:
-
-**AI × Web Development × Automation × DevOps**
-
-Current areas I'm exploring include AI-powered SaaS products, developer tools, website/template exporters, automated deployment systems, and tools that can understand and transform existing codebases.
-
-## 📚 Featured Projects
-
-* **DSA_PHP** — Data Structures & Algorithms implemented in PHP
-* **php-mvc** — PHP MVC framework experiment
-* **leetcode-php** — LeetCode solutions in PHP
-
-## 📊 Development Philosophy
-
-```text
-Curiosity → Experiment → Build → Break → Understand → Improve
-```
-
-I believe the best way to learn technology is to **build with it**.
 
 ---
 
