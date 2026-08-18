@@ -1,16 +1,115 @@
-## Hi there 👋
+# Hey, I'm Amine 👋
 
-<!--
-**mranidev/mranidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PHP Developer · Freelancer · Builder**
 
-Here are some ideas to get you started:
+I like taking things apart, understanding how they work, and building them again — usually with code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm focused on **PHP, Laravel, WordPress, WooCommerce, DevOps, and developer tooling**, while constantly experimenting with new technologies and AI-assisted development workflows.
+
+## 🧑‍💻 What I Do
+
+* 🐘 Build applications with **PHP & Laravel**
+* 🌐 Develop **WordPress / WooCommerce** websites, themes, and plugins
+* 🏗️ Build SaaS products and web applications
+* 🤖 Experiment with **AI-powered development tools and agents**
+* ⚙️ Automate development and deployment workflows
+* 🐧 Work with **Linux, servers, containers, and DevOps**
+* 🧠 Practice algorithms, data structures, and problem solving
+
+## ⚡ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45" alt="Bash"/>
+</p>
+
+### Frameworks & Platforms
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="45" height="45" alt="Laravel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="45" height="45" alt="WordPress"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js"/>
+</p>
+
+### Databases
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" height="45" alt="Redis"/>
+</p>
+
+## 🛠️ Development Tools
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="45" height="45" alt="Neovim"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
+</p>
+
+**Editors & AI Development**
+
+* ⚡ **Zed Editor** — fast, modern code editor
+* 🤖 **FreeBuffer IDE Agent** — AI-assisted development workflow
+* 🧠 **Claude / AI coding agents** — code generation, debugging, research, and automation
+* 🐧 **Neovim** — terminal-based development
+* 🖥️ **Termux** — development and Linux tooling on Android
+
+## ☁️ DevOps & Infrastructure
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45" height="45" alt="Nginx"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="45" height="45" alt="GitHub Actions"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="45" height="45" alt="Cloudflare"/>
+</p>
+
+* 🐧 **Linux / Arch Linux**
+* 🐳 **Docker & Containers**
+* 🌐 **Nginx**
+* 🔄 **CI/CD & GitHub Actions**
+* ☁️ **Cloudflare**
+* 🚀 **Vercel / Railway / Fly.io / Wasmer**
+* 🔐 **SSH, Git, DNS & server administration**
+
+## 🚀 What I'm Building
+
+I'm especially interested in building tools around:
+
+**AI × Web Development × Automation × DevOps**
+
+Current areas I'm exploring include AI-powered SaaS products, developer tools, website/template exporters, automated deployment systems, and tools that can understand and transform existing codebases.
+
+## 📚 Featured Projects
+
+* **DSA_PHP** — Data Structures & Algorithms implemented in PHP
+* **php-mvc** — PHP MVC framework experiment
+* **leetcode-php** — LeetCode solutions in PHP
+
+## 📊 Development Philosophy
+
+```text
+Curiosity → Experiment → Build → Break → Understand → Improve
+```
+
+I believe the best way to learn technology is to **build with it**.
+
+---
+
+### 🌍 Connect
+
+* 🌐 Website: [elalaoui.biz](https://www.elalaoui.biz)
+* 💼 LinkedIn: [linkedin.com/in/elalaouimrani](https://www.linkedin.com/in/elalaouimrani)
+* 🐙 GitHub: [@mranidev](https://github.com/mranidev)
+
+> **Build. Break. Understand. Rebuild.**
