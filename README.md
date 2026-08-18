@@ -1,5 +1,3 @@
-# Hey, I'm Amine 👋
-
 **PHP Developer · Freelancer · Builder**
 
 I like taking things apart, understanding how they work, and building them again — usually with code.
