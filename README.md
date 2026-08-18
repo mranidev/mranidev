@@ -1,19 +1,3 @@
-**PHP Developer · Freelancer · Builder**
-
-I like taking things apart, understanding how they work, and building them again — usually with code.
-
-I'm focused on **PHP, Laravel, WordPress, WooCommerce, DevOps, and developer tooling**, while constantly experimenting with new technologies and AI-assisted development workflows.
-
-## 🧑‍💻 What I Do
-
-* 🐘 Build applications with **PHP & Laravel**
-* 🌐 Develop **WordPress / WooCommerce** websites, themes, and plugins
-* 🏗️ Build SaaS products and web applications
-* 🤖 Experiment with **AI-powered development tools and agents**
-* ⚙️ Automate development and deployment workflows
-* 🐧 Work with **Linux, servers, containers, and DevOps**
-* 🧠 Practice algorithms, data structures, and problem solving
-
 ## ⚡ Tech Stack
 
 ### Languages
